@@ -69,3 +69,24 @@ a[selected="true"] {
 .color-container[id="green"] {
   background-color: green;
 }
+/*Poster project*/
+.poster-content {
+  background-color: black;
+}
+.poster {
+  width: 100%;
+
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+.poster-img {
+  border: 3px dashed rgb(225, 208, 208);
+  border-radius: 20px;
+  width: 100%;
+  height: 80%;
+}
+.quote {
+  font-size: 22px;
+}
